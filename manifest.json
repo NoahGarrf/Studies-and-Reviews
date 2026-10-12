@@ -1,0 +1,13 @@
+{
+    "id": "noah-study-mod",
+    "name": "Studies and Reviews",
+    "description": "Pay to perform studies to figure out the potential ridership of your blueprints before you build them",
+    "version": "1.0.0",
+    "author": {
+        "name": "Noahhhhhhh"
+    },
+    "main": "index.js",
+	"dependencies": {
+    "subway-builder": ">=1.7.0"
+	}
+}
